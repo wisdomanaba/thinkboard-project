@@ -1,1 +1,1 @@
-# thinkboard-project
+# Thinkboard Project
